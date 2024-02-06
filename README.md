@@ -20,7 +20,7 @@ This repository contains a Power BI project focused on the analysis and visualiz
    - Open your terminal or command prompt.
    - Run the following command to clone the repository:
      ```bash
-     git clone [https://github.com/your-username/Delivery-App-Analysis-and-Visualization](https://github.com/joshua-dada-mayowa/Delivery-App-Analysis-and-Visualisation).git
+     git clone [https://github.com/your-username/Delivery-App-Analysis-and-Visualization].git
      ```
    - Alternatively, you can download the ZIP file of the repository and extract it to your local machine.
 
